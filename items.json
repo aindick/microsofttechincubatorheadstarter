@@ -1,0 +1,44 @@
+{
+    "merch": [
+        {"id": 1,
+         "name": "One Piece Shirt",
+         "price": 1999,
+         "imgName": "onepieceshirt.png"
+        },
+        {
+        "id": 2,
+         "name": "Jujutsu Kaisen Hoodie",
+         "price": 5000,
+         "imgName": "jujutsu.png"
+        },
+        {
+            "id": 3,
+             "name": "Hunter x Hunter Sweatpants",
+             "price": 3099,
+             "imgName": "hh.png"
+            },
+            {
+                "id": 4,
+                 "name": "Black Butler Notebook",
+                 "price": 1000,
+                 "imgName": "bb.png"
+                },
+
+                {
+                    "id": 5,
+                     "name": "Jojo's Bizare Adventure Figure",
+                     "price": 11500,
+                     "imgName": "jolyne.png"
+                    },
+                    {
+                        "id": 6,
+                         "name": "Kamisama Kiss DVD Set",
+                         "price": 2000,
+                         "imgName": "kk.png"
+                        }
+    ]
+
+
+
+
+}
